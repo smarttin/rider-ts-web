@@ -1,5 +1,1 @@
-import React from 'react';
-
-const R = () => <span>Login</span>
-
-export default R;
+export {default} from './LoginPresenter';
